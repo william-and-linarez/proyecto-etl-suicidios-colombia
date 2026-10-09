@@ -1,0 +1,7 @@
+﻿metrica,valor
+MAE departamental,11.40179318192114
+RMSE departamental,19.303549699271056
+Correlacion departamental,0.9890751315783307
+Sesgo total (predicho - observado),147.91545977856322
+Error absoluto total,376.2591750033977
+WAPE (%),12.4878584468436
