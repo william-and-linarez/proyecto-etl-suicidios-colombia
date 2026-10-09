@@ -270,5 +270,5 @@ Esta estructura permite seguir el proceso desde las fuentes originales hasta el 
 
 ## 12. Referencias
 
-- Instituto Nacional de Medicina Legal y Ciencias Forenses (INMLCF). Registros de presuntos suicidios en Colombia, 2015-2024. Datos Abiertos Colombia.
+- Instituto Nacional de Medicina Legal y Ciencias Forenses (INMLCF). Registros de presuntos suicidios en Colombia, 2015-2024. Datos Abiertos Colombia. [Portal oficial](https://www.datos.gov.co/Justicia-y-Derecho/Presuntos-Suicidios-Colombia-2015-a-2024-Cifras-de/f75u-mirk/about_data)
 - Departamento Administrativo Nacional de Estadística (DANE). Proyecciones de población por departamento, sexo y edad. [Portal oficial](https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/proyecciones-de-poblacion).
