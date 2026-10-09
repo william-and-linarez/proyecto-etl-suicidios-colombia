@@ -21,7 +21,7 @@ Los resultados representan asociaciones estadísticas. No permiten establecer re
 
 Contiene registros de presuntos suicidios durante el periodo 2015-2024, con variables demográficas, temporales y territoriales.
 
-Fuente: [Datos Abiertos de Colombia](https://www.datos.gov.co/)
+Fuente: [Datos Abiertos de Colombia]([https://www.datos.gov.co/](https://www.datos.gov.co/Justicia-y-Derecho/Presuntos-Suicidios-Colombia-2015-a-2024-Cifras-de/f75u-mirk/about_data))
 
 ### 2.2. DANE: proyecciones de población 2005-2017
 
