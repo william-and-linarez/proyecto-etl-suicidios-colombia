@@ -10,7 +10,7 @@
 
 | Nombre | Código | Usuario de GitHub |
 |---|---|---|
-| [William Andres Linarez Salazar] | [22611972] | [@william-and-linarez](https://github.com/william-and-linarez) |
+| William Andres Linarez Salazar | 22611972 | @william-and-linarez(https://github.com/william-and-linarez) |
 
 ## Tabla de contenido
 
